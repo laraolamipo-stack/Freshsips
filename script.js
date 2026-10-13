@@ -1,5 +1,5 @@
 // 1. Updated Smoothie price to 1200 to match your UI
-const prices = { zobo: 500, tigernut: 700, smoothie: 1200 };
+const prices = { zobo: 700, tigernut: 1000 smoothie: 1500 };
 const counts = { zobo: 0, tigernut: 0, smoothie: 0 };
 const MY_WHATSAPP = "2349055906883";
 
